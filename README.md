@@ -1,4 +1,4 @@
-# AWS-Cloud-Practioner
+# AWS-Cloud-Practitioner
 Notes I used when studying for the AWS Cloud Practioner certification. Hope it helps!
 
 ## Cloud Concepts
